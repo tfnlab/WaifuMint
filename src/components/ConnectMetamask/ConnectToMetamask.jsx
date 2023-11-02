@@ -28,7 +28,6 @@ const ConnectToMetamask = ({ connectToMetamask }) => {
                     >
                       Connect Wallet
                     </button>
-                    </p>
 
                 <hr className="my-4" />
 
