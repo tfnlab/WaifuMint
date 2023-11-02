@@ -19,7 +19,7 @@ const ConnectToMetamask = ({ connectToMetamask }) => {
         <h1 className="display-5 text-center">
           Meta Legends
         </h1>
-        <h3>Introducing Our AI-Generated Profile Picture Collection</h3>
+        <h3 className="mt-3">Introducing Our Profile Picture Collection</h3>
                     <hr className="my-4" />
                     <p>
                     Discover the future of profile pictures with our revolutionary AI-generated collection. We're the first to offer a large, adaptable selection of AI-crafted profile pictures, ensuring diversity, uniqueness, and privacy. Upgrade your online presence today.
