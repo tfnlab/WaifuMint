@@ -19,17 +19,19 @@ const ConnectToMetamask = ({ connectToMetamask }) => {
         <h1 className="display-5 text-center">
           Meta Legends
         </h1>
-
+        </h3>Introducing Our AI-Generated Profile Picture Collection</h3>
                     <hr className="my-4" />
-                    <button
-                      onClick={connectToMetamask}
-                      className="btn btn-primary d-flex align-items-center"
-                      style={{ fontSize: "0.9rem", letterSpacing: "0.14rem" }}
-                    >
-                      Connect Wallet
-                    </button>
-
+                    <p>
+                    Discover the future of profile pictures with our revolutionary AI-generated collection. We're the first to offer a large, adaptable selection of AI-crafted profile pictures, ensuring diversity, uniqueness, and privacy. Upgrade your online presence today.
+                    </p>
                 <hr className="my-4" />
+                <button
+                  onClick={connectToMetamask}
+                  className="btn btn-primary d-flex align-items-center"
+                  style={{ fontSize: "0.9rem", letterSpacing: "0.14rem" }}
+                >
+                  Connect Wallet
+                </button>
 
 
 
