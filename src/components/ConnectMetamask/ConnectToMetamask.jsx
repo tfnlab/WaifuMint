@@ -19,9 +19,24 @@ const ConnectToMetamask = ({ connectToMetamask }) => {
         <h1 className="display-5 text-center">
           Meta Legends
         </h1>
-        <img src="images/browniewood.gif" width="100%" alt="Brownie Coin" />
+
+                    <hr className="my-4" />
+                    <button
+                      onClick={connectToMetamask}
+                      className="btn btn-primary d-flex align-items-center"
+                      style={{ fontSize: "0.9rem", letterSpacing: "0.14rem" }}
+                    >
+                      Connect Wallet
+                    </button>
+                    </p>
+
+                <hr className="my-4" />
+
+
+
+
         <hr className="my-2" />
-        tfnlab.com &copy; 2023 All rights reserved.
+        MetaLegends.org &copy; 2023 All rights reserved.
         <hr className="my-2" />
       </div>
     </div>
